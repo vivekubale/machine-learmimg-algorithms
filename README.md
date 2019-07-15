@@ -1,1 +1,1 @@
-# machine-learmimg-algorithms
+# Machine learning algorithms
